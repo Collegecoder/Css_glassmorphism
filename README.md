@@ -1,1 +1,1 @@
-# Css_glassmorphism
+this is a glassmorphism effect css designe. you can find out this in our youtube channel there we are makeed how to make this vcss effect. the main part is that it not make in any laptop or windows and pc it maked only and only on mobile devices.
